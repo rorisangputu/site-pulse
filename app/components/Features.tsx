@@ -23,8 +23,8 @@ const Features = () => {
                     </h1>
                     <Image src={Feature1} alt="feat-1" className='pt-[24px] sm:hidden' />
                     <p className='py-[24px] text-[#36485C] lg:text-[18px]'>
-                        Stay on top of things and revamp your work process with out game-changing
-                        feature. Get a birds eye view with out customizable dashboard.
+                        Track your sales effortlessly with our comprehensive dashboard.
+                        Gain insights into your sales performance and make data-driven decisions.
                     </p>
 
                     <ul className='flex flex-col gap-y-3 lg:text-[18px]'>
@@ -32,19 +32,19 @@ const Features = () => {
                             <span>
                                 <Image src={Check} alt='check' />
                             </span>
-                            Lorem ipsum dolor sit amet
+                            Real-time sales tracking
                         </li>
                         <li className='flex items-center gap-x-2 text-[#36485C]'>
                             <span>
                                 <Image src={Check} alt='check' />
                             </span>
-                            Aspernatur quidem tempora animi.
+                            Detailed sales reports
                         </li>
                         <li className='flex items-center gap-x-2 text-[#36485C]'>
                             <span>
                                 <Image src={Check} alt='check' />
                             </span>
-                            Rerum molestiae nesciunt fuga ut.
+                            Customizable alerts
                         </li>
                     </ul>
 
@@ -65,8 +65,8 @@ const Features = () => {
                     </h1>
                     <Image src={Feature2} alt="feat-2" className='pt-[24px] sm:hidden' />
                     <p className='py-[24px] text-[#36485C] lg:text-[18px]'>
-                        Stay on top of things and revamp your work process with out game-changing
-                        feature. Get a birds eye view with out customizable dashboard.
+                        Enhance your customer support experience with our intuitive tools.
+                        Ensure timely and effective communication with your customers.
                     </p>
 
                     <ul className='flex flex-col gap-y-3 lg:text-[18px]'>
@@ -74,19 +74,19 @@ const Features = () => {
                             <span>
                                 <Image src={Check} alt='check' />
                             </span>
-                            Lorem ipsum dolor sit amet
+                            24/7 support availability
                         </li>
                         <li className='flex items-center gap-x-2 text-[#36485C]'>
                             <span>
                                 <Image src={Check} alt='check' />
                             </span>
-                            Aspernatur quidem tempora animi.
+                            Multichannel communication
                         </li>
                         <li className='flex items-center gap-x-2 text-[#36485C]'>
                             <span>
                                 <Image src={Check} alt='check' />
                             </span>
-                            Rerum molestiae nesciunt fuga ut.
+                            Integrated helpdesk
                         </li>
                     </ul>
 
@@ -107,18 +107,18 @@ const Features = () => {
                     </h1>
                     <Image src={Feature3} alt="feat-3" className='pt-[24px] sm:hidden' />
                     <p className='py-[24px] text-[#36485C] lg:text-[18px]'>
-                        Stay on top of things and revamp your work process with out game-changing
-                        feature. Get a birds eye view with out customizable dashboard.
+                        Keep track of your subscriber growth with our advanced analytics.
+                        Understand your audience and optimize your strategy for better engagement.
                     </p>
 
                     <div className='flex w-full gap-x-[24px] h-[78px] lg:h-[96px]'>
                         <div className='w-1/2 flex flex-col gap-y-3 '>
                             <h3 className='text-[#172026] text-[20px] font-medium lg:text-4xl'>100+</h3>
-                            <p className='text-[#36485C] text-base lg:text-[18px]'>Conse adipiscing elit</p>
+                            <p className='text-[#36485C] text-base lg:text-[18px]'>New subscribers every month</p>
                         </div>
                         <div className='w-1/2 flex flex-col gap-y-3  '>
                             <h3 className='text-[#172026] text-xl font-medium lg:text-4xl'>800+</h3>
-                            <p className='text-[#36485C] text-base lg:text-[18px]'>Lorem ipsum dolor sit</p>
+                            <p className='text-[#36485C] text-base lg:text-[18px]'>Total subscribers reached</p>
                         </div>
                     </div>
 

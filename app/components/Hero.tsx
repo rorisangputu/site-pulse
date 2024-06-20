@@ -18,7 +18,7 @@ const Hero = () => {
                     Start monitoring your website like a pro.
                 </h1>
                 <p className='text-center pt-6 text-[#36485C] lg:text-18px lg:leading-7'>
-                    Get a bird&apos; eye view with our customizable dashboard. Stay on top of things!
+                    Get a bird&apos;s eye view with our customizable dashboard. Stay on top of things!
                     Revamp your work process with our game-changing feature. Boost productivity and efficiency!
                 </p>
 
@@ -51,9 +51,9 @@ const Hero = () => {
                         >
                             <Image src={Google} alt='Google' />
                             <Image src={Slack} alt='Slack' />
-                            <Image src={Trustpilot} alt='Trustpilot' />
                             <Image src={CNN} alt='CNN' />
                             <Image src={Clutch} alt='Clutch' />
+                            <Image src={Trustpilot} alt='Trustpilot' />
 
                         </div>
                     </div>
