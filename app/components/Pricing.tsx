@@ -39,7 +39,7 @@ const Pricing = () => {
                                 <span>
                                     <Image src={Check} alt='check' />
                                 </span>
-                                Detailed sales reports
+                                Basic analytics
                             </li>
                             <li className='flex items-center gap-x-2'>
                                 <span>
@@ -82,7 +82,7 @@ const Pricing = () => {
                                 <span>
                                     <FaCheck className="text-white" />
                                 </span>
-                                Detailed sales reports
+                                In-depth analytics
                             </li>
                             <li className='flex items-center gap-x-2'>
                                 <span>
@@ -94,13 +94,13 @@ const Pricing = () => {
                                 <span>
                                     <FaCheck className="text-white" />
                                 </span>
-                                Detailed sales reports
+                                Seamless integration
                             </li>
                             <li className='flex items-center gap-x-2'>
                                 <span>
                                     <FaCheck className="text-white" />
                                 </span>
-                                Customizable alerts
+                                Comprehensive dashboards
                             </li>
                         </ul>
 
@@ -127,10 +127,10 @@ const Pricing = () => {
                         </h2>
 
                         <p className='pt-6 text-[16px] text-[#36485C]'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus iusto nulla.
+                            Tailored solutions to meet your specific needs.
                         </p>
                         <p className='pt-2 text-[16px] text-[#36485C]'>
-                            Vel laboriosam amet dolore mollitia id ullam porro ducimus soluta minima dolorem aliquam.
+                            Advanced features and dedicated support for large enterprises.
                         </p>
 
                     </div>
