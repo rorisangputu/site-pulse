@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Logo from '../../public/assets/Logo.svg'
 import User from '../../public/assets/User.svg'
-import menu from '../../public/assets/menu.svg'
+import { AiOutlineMenu } from 'react-icons/ai';
 
 const navLinks = [
     { name: "Features" },
@@ -34,7 +34,7 @@ const NavBar = () => {
                         Sign In
                     </span>
                 </div>
-                <Image src={menu} alt="Menu" className="lg:hidden" />
+                <AiOutlineMenu className="lg:hidden" />
             </div>
         </nav>
     )
